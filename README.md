@@ -1,5 +1,4 @@
-Khafiz Khader, CSCI 333, Lab-7
-NU ID: 202041946
+Khafiz Khader
 
 Instructions:
 
